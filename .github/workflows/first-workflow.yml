@@ -9,5 +9,5 @@ jobs:
           run: echo "Hello"
         -
           name: goodbye
-          run: echo"good bye"
+          run: echo "good bye"
     
